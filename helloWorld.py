@@ -1,0 +1,2 @@
+name = "stranger"
+x = "hola"
